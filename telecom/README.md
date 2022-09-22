@@ -1,6 +1,6 @@
 ## Анализ эффективности использования тарифов клиентами телеком компании
 
-[Ссылка на тетрадь](https://github.com/aksyutenko/yandex_practicum/blob/main/telecom.ipynb)
+[Ссылка на тетрадь](https://github.com/aksyutenko/data_analyst_portfolio/blob/main/telecom/telecom.ipynb)
 
 **Цель исследования**
 
