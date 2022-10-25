@@ -39,6 +39,6 @@
 - [Аналитик данных](https://disk.yandex.ru/i/k8ZLHXZzivXPKQ). Яндекс Практикум, август 2022
 
 ## Контакты
-- Резюме: [Аналитик данных](https://hh.ru/resume/7004c8abff013922e90039ed1f3676316f6e69)
+- Резюме: [BI аналитик](https://hh.ru/resume/7a31021cff0b5492fd0039ed1f344b46665566)
 - LinkedIn: [aksyutenko](https://www.linkedin.com/in/aksyutenko)
 - Telegram: [@aksyutenko](https://t.me/aksyutenko)
