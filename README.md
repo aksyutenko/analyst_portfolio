@@ -1,4 +1,4 @@
-# Портфолио BI аналитика
+# Портфолио аналитика данных
 Данный репозиторий создан для демонстрации моих навыков, отслеживания прогресса и публикации личных проектов.
 
 ## Содержание
@@ -39,6 +39,5 @@
 - [Аналитик данных](https://disk.yandex.ru/i/k8ZLHXZzivXPKQ). Яндекс Практикум, август 2022
 
 ## Контакты
-- Резюме: [BI аналитик](https://hh.ru/resume/7a31021cff0b5492fd0039ed1f344b46665566)
 - LinkedIn: [aksyutenko](https://www.linkedin.com/in/aksyutenko)
 - Telegram: [@aksyutenko](https://t.me/aksyutenko)
