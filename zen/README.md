@@ -1,6 +1,8 @@
 # Анализ взаимодействия пользователей с карточками Яндекс.Дзен
 
 [Ссылка на тетрадь](https://github.com/aksyutenko/data_analyst_portfolio/blob/main/zen/zen.ipynb)
+[Ссылка на дашборд](https://public.tableau.com/views/ZEN_16589526825330/zen_dashboard) 
+[Ссылка на презентация](https://disk.yandex.ru/i/pPxy-lpL1FIS8g)
 
 **Цель исследования**
 
