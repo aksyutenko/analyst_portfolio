@@ -21,7 +21,7 @@
 
 |#|Название проекта|Описание проекта|Статус|Стек|
 |-|----------|----------|----------|----------|
-|1|(Анализ показателей YouTube канала в соотвествии с методикой AIDA)[https://github.com/aksyutenko/analyst_portfolio/tree/main/youtube_pt1]|Импорт данных YouTube канала в Google Sheets и далее в Looker Studio для построения дашборда и рассчета ROMI|завершен|pandas</br>gspread</br>youtube_api</br>looker_studio|
+|1|[Анализ показателей YouTube канала в соотвествии с методикой AIDA](https://github.com/aksyutenko/analyst_portfolio/tree/main/youtube_pt1)|Импорт данных YouTube канала в Google Sheets и далее в Looker Studio для построения дашборда и рассчета ROMI|завершен|pandas</br>gspread</br>youtube_api</br>looker_studio|
 |2|Конкурс Maven Pizza Challenge|Подготовка дашборда для ответа на вопросы менеджмента о продажах, загрузке ресторана, использовании посадочных мест|в процессе|tableau|
 |3|Анализ вакансий аналитиков на сайте hh.ru|Провести анализ вакансий аналитиков на сайте hh.ru для оптимизации процесса поиска работы после обучения в Яндексе Практикуме.|в процессе|pandas</br>requests</br>|
 
